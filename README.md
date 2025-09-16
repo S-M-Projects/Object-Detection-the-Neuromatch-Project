@@ -1,1 +1,1 @@
-# Object-Detection-the-Neuromatch-Project
+# Object Detection, the Neuromatch Project
