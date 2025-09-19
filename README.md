@@ -1,7 +1,8 @@
 # Object Detection, the Neuromatch Project
 
 This repository contains our Python implementation of **single-agent** and **multi-agent reinforcement learning systems** for collaborative object detection.
-Agents learn to move and resize bounding boxes to locate objects in images, using **IoU-based rewards** and **VGG-16 extracted features** within a custom **PettingZoo environment**.
+Developed as part of the **Neuromatch Summer School 2025**, this project explores how multiple agents can **collaboratively move and resize bounding boxes** to locate objects in images.
+The system uses **IoU-based rewards** and **VGG-16 extracted features** within a custom **PettingZoo environment**.
 
 ---
 
@@ -95,12 +96,15 @@ python train_multi_agent.py
 * **Pascal VOC Dataset:** [http://host.robots.ox.ac.uk/pascal/VOC/](http://host.robots.ox.ac.uk/pascal/VOC/)
 * **QMIX Paper:** *Monotonic Value Function Factorisation for Deep Multi-Agent Reinforcement Learning* (Rashid et al., 2018)
 * **PettingZoo Documentation:** [https://www.pettingzoo.ml/](https://www.pettingzoo.ml/)
+* **Neuromatch Summer School:** [https://neuromatch.io](https://neuromatch.io)
 
 ---
 
 ## Acknowledgments
 
+* **Neuromatch Academy** – for providing the summer school platform and mentorship
 * **PyTorch** – deep learning framework
 * **PettingZoo** – multi-agent RL toolkit
 * **Pascal VOC creators** – dataset providers
-* Open-source contributors and MARL research community
+* Open-source contributors and the MARL research community
+
