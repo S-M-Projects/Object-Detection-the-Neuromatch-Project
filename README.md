@@ -1,4 +1,5 @@
 # Object Detection, the Neuromatch Project
+IN PROGRESS...
 
 This repository contains our Python implementation of **single-agent** and **multi-agent reinforcement learning systems** for collaborative object detection.
 Developed as part of the **Neuromatch Summer School 2025**, this project explores how multiple agents can **collaboratively move and resize bounding boxes** to locate objects in images.
